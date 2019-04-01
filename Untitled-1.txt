@@ -1,0 +1,54 @@
+
+        {/* <div className="col-lg-4 col-md-4 col-sm-4">  
+        <h1 className="h3 display">Total Record Created       </h1>
+
+            <div className="card data-usage">
+            <Card>
+
+                <h2 className="display h4">All</h2>
+                <div className="row d-flex align-items-center">
+                    <div className="col-sm-6">
+                        <img src={require('../../img/month.svg')} alt="Month" className="card-img-top img-fluid" data-toggle="tooltip" data-placement="top" title="Month"/>                                      
+                        
+                    </div>
+                    <div className="col-sm-6"><h3 className="h4 display">Total</h3>
+                    <strong className="text-primary">{totalRecord}</strong><span></span>
+                    </div>
+                </div>
+                </Card>
+
+            </div>
+            </div> */}
+        
+       
+
+        {/* <div className="col-lg-4 col-md-4 col-sm-4">  
+            <div className="card data-usage">
+                <h2 className="display h4">Month</h2>
+                <div className="row d-flex align-items-center">
+                    <div className="col-sm-6">
+                                                            
+                        <img src={require('../../img/date.svg')} alt="Date" className="card-img-top img-fluid" data-toggle="tooltip" data-placement="top" title="Date"/>                                      
+
+                    </div>
+                    <div className="col-sm-6"><h3 className="h4 display">Total</h3>
+                    <strong className="text-primary">{totalMonth}</strong><span></span></div>
+                </div>
+
+            </div>
+        </div>
+
+        <div className="col-lg-4 col-md-4 col-sm-4">  
+            <div className="card data-usage">
+                <h2 className="display h4">User</h2>
+                <div className="row d-flex align-items-center">
+                    <div className="col-sm-6">
+                                                            
+                        <img src={require('../../img/user1.svg')} alt="User1" className="card-img-top img-fluid" data-toggle="tooltip" data-placement="top" title="User1"/>                                      
+                        
+                    </div>
+                    <div className="col-sm-6"><h3 className="h4 display">Total</h3><strong className="text-primary">10</strong><span></span></div>
+                </div>
+
+            </div>
+        </div> */}
